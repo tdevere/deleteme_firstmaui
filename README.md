@@ -1,3 +1,3 @@
 # FirstMauiApp
 
-Creating new app via GitHub Integration
+No really, this time I am.
